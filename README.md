@@ -27,9 +27,10 @@ For production build:
 ```
 npm run build
 ```
-###TODO
+## TODO
 1. Add Auth
 2. Checkout
 3. Payment[Stripe or Paynow]
 3. Products categories
+4. Add AddtoCart button on quickview
 
